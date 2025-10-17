@@ -1,1 +1,2 @@
 commit1 on feature1
+commit2 on feature1
