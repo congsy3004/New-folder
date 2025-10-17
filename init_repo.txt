@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 
 commit1 on main
+=======
 commit1 on feature1
+>>>>>>> 569370b (commit1 on feature1)
