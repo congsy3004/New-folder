@@ -5,8 +5,13 @@
 commit1 on main
 =======
 commit1 on feature1
+<<<<<<< HEAD
 >>>>>>> 569370b (commit1 on feature1)
 =======
 commit1 on feature1
 commit2 on feature1
 >>>>>>> 4201388 (commit2 on feature1)
+=======
+commit2 on feature1
+commit1 on feature2
+>>>>>>> b6c3181 (commit1 on feature2)
